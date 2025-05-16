@@ -73,15 +73,15 @@ HealthTipApp/
 
 ## 📸 Preview
 
-![Main Screen](screenshots/main_screen.png)
-![Settings Screen](screenshots/settings_screen.png)
+![Main Screen](https://github.com/user-attachments/assets/3a1b1d01-6161-46f4-9b01-e5db85863620)
 
-> (Optional: Add screenshots to the `screenshots/` folder in your project)
+![Settings Screen](https://github.com/user-attachments/assets/a894e34c-8a6c-42c4-b804-c07d2ccdba98)
 
 ---
 
 ## 📧 Contact
 
 For suggestions or help, feel free to contact the developer.
+Developer Email: keerthanan7616@gmail.com
 
 ---
