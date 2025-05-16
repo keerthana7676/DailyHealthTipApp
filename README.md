@@ -73,9 +73,11 @@ HealthTipApp/
 
 ## 📸 Preview
 
-![Main Screen](https://github.com/user-attachments/assets/3a1b1d01-6161-46f4-9b01-e5db85863620)
+![Main Screen](https://github.com/user-attachments/assets/7e9a3111-f212-480c-aa70-f6afa47ecac8)
 
-![Settings Screen](https://github.com/user-attachments/assets/a894e34c-8a6c-42c4-b804-c07d2ccdba98)
+
+![Settings Screen](https://github.com/user-attachments/assets/bb5ac06c-c8ea-4629-b0a4-b1e740f18234)
+
 
 ---
 
